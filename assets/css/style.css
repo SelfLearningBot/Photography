@@ -397,10 +397,12 @@ section.lovebird-slider-area {
   height: 950px;
 }
 
-.lovebird-slider-bg,
-.lovebird-slider-bg2
+/* .lovebird-slider-bg2
 .lovebird-slider-bg3,
-.lovebird-slider-bg4 {
+.lovebird-slider-bg4 */
+
+.lovebird-slider-bg
+ {
   background: url(../images/slider/slider-1-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
